@@ -1,3 +1,4 @@
 <?php
 
-echo" Hello , Minh la' shen";
+// git branch + check out
+// git merge rebase
